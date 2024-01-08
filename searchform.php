@@ -1,0 +1,1 @@
+<a href="?s"><img class="search_icon" src="wp-content/uploads/2024/01/iconmonstr-magnifier-lined-240.png"></img></a>
